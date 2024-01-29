@@ -1,0 +1,6 @@
+{
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}
